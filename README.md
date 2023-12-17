@@ -1,4 +1,4 @@
-# Set tên wifi có chứa emoji (ví dụ trong bài là router chạy dd-wrt)
+# Set tên wifi có chứa emoji (ví dụ trong trong hướng dẫn là router chạy dd-wrt)
 * điều kiện: dùng telnet hay ssh kết nối được với router
 chạy lệnh sau:
 ```
