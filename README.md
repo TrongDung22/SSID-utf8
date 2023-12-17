@@ -10,7 +10,7 @@ wlan0_ssid=⭐P0430⭐
 ```
 * Khi này, ta dùng lệnh sau:
 ```
-nvram set wlan0_ssid="<hangulSSID>"
+nvram set wlan0_ssid="<ssid muốn đổi>"
 ```
 và reboot lại router bằng lệnh
 ```
