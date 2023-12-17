@@ -6,7 +6,7 @@ nvram show | grep <tên ssid hiện tại>
 ```
 * Sau khi chạy nó sẽ xuất ra thông tin dạng như sau:
 ```
-wlan0_ssid=⭐P0430⭐
+wlan0_ssid=<tên ssid hiện tại>
 ```
 * Khi này, ta dùng lệnh sau:
 ```
