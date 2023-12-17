@@ -16,4 +16,4 @@ và reboot lại router bằng lệnh
 ```
 reboot
 ```
-**chú ý**: dòng **wlan0_ssid** có thể thay đổi tùy vào interface của từng router, hãy chạy lệnh **nvram** ở trên để kiểm tra.
+**chú ý**: dòng **wlan0_ssid** có thể thay đổi tùy vào interface của từng router, hãy chạy lệnh **nvram show** ở trên để kiểm tra.
